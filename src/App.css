@@ -79,3 +79,13 @@ h1{
     grid-column: 2/4;
     grid-row: 1;
 }
+
+
+/*  */
+.share-btn {
+    margin: 6px 12px;
+}
+
+.share-ic {
+    border-radius: 6px;
+}
